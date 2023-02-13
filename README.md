@@ -4,25 +4,25 @@
 The purpose of this project is to conduct a analysis of Amazon reviews. Specifically to analyze reviews produced as part of the Amazon Vine program.
 
 ## Results:
-** How many Vine reviews and non-Vine reviews were there?
+* How many Vine reviews and non-Vine reviews were there?
 38010
 
-** How many Vine reviews were there? 
+* How many Vine reviews were there? 
 170
 
-** How many Vine reviews were 5 stars? 
+* How many Vine reviews were 5 stars? 
 65
 
-** How many non-Vine reviews were there?
+* How many non-Vine reviews were there?
 37840
 
-** How many non-Vine reviews were 5 stars?
+* How many non-Vine reviews were 5 stars?
 20612
 
-** What percentage of Vine reviews were 5 stars? 
+* What percentage of Vine reviews were 5 stars? 
 38.24%
 
-** What percentage of non-Vine reviews were 5 stars?
+* What percentage of non-Vine reviews were 5 stars?
 54.47%
 
 # Summary:
