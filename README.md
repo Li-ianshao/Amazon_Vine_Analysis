@@ -8,22 +8,22 @@ The purpose of this project is to conduct a analysis of Amazon reviews. Specific
 38010
 
 * How many Vine reviews were there? 
-170
+A: 170
 
 * How many Vine reviews were 5 stars? 
-65
+A: 65
 
 * How many non-Vine reviews were there?
-37840
+A: 37840
 
 * How many non-Vine reviews were 5 stars?
-20612
+A: 20612
 
 * What percentage of Vine reviews were 5 stars? 
-38.24%
+A: 38.24%
 
 * What percentage of non-Vine reviews were 5 stars?
-54.47%
+A:54.47%
 
 # Summary:
 
